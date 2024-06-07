@@ -1,0 +1,22 @@
+:root {
+    --dark: #212529;
+    --white: #fff;
+    --pink: #E83E8C;
+    --info: #17A2b8;
+}
+
+body {
+    width: 100%;
+}
+
+.navbar {
+    background: var(--pink);
+}
+
+.pay-section {
+    background: var(--info);
+}
+
+footer {
+    background: var(--pink);
+}
